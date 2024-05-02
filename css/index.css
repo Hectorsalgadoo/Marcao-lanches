@@ -1,0 +1,94 @@
+body{
+    position: relative;
+    font-family: 'Oswald', sans-serif;
+}
+
+.ft-principal {
+    background-image: url(/img/6193.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.ft-principal h2 {
+    color: #ffc107;
+    font-weight: 700;
+}
+
+.container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.mt-0 {
+    margin-top: 50px !important;
+  }
+
+#frango {
+    background-image: url(/img/642295-POM9K6-723.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    display: flex;
+    
+}
+
+#frango-fd {
+    background-color: rgba(255,255,255,0.5);
+    color: black;
+}
+
+#lanches {
+    background-image: url(/img/183507-OWW4G4-979.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+#lanches-fd {
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+
+#bebidas {
+    background-image: url(/img/2571925.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+#bebidas-fd {
+    background-color: rgba(255,255,255,0.5);
+    color: black; 
+}
+
+#sobremesas {
+    background-image: url(/img/504371-PHS3TT-905.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+#sobremesas-fd {
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+
+
+
+
+
+
